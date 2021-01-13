@@ -1,2 +1,2 @@
 # Linguagem-Java
-Tutoriais e infdormações sobre Java
+Tutoriais e informações sobre Java
