@@ -7,7 +7,7 @@ Tutoriais e informações sobre Java
 
 [Curso Java](https://www.youtube.com/watch?v=6cgdclqm768&t=609s)
 
-[Curso java Web](https://www.youtube.com/watch?v=CRXJmyUyCKI)
+[Curso java Web](https://www.youtube.com/channel/UCfZokasaM2WVd7OM07pnktQ)
 
 >Aplicação
 >>Módulos
