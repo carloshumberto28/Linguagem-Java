@@ -9,6 +9,8 @@ Tutoriais e informações sobre Java
 
 [Curso java Web](https://www.youtube.com/channel/UCfZokasaM2WVd7OM07pnktQ)
 
+[Curso da Loiane. Introdução ao Java](https://www.youtube.com/watch?v=mu2ti43cgwc&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=6)
+
 >Aplicação
 >>Módulos
 >>>Pacotes
