@@ -18,6 +18,13 @@ Tutoriais e informações sobre Java
 >>>>>Atributos e Metodos
 
 
+# Curosos Java Web
+
+[Fundamentos Java Web](https://www.youtube.com/watch?v=A9WRuhzVD80&list=PLKvsMn7xWutZ_kx6CRoVNxV2Bwt4xHQ6o)
+
+
+
+
 
 
 
