@@ -20,7 +20,9 @@ Tutoriais e informações sobre Java
 
 # Curosos Java Web
 
-[Fundamentos Java Web](https://www.youtube.com/watch?v=A9WRuhzVD80&list=PLKvsMn7xWutZ_kx6CRoVNxV2Bwt4xHQ6o)
+[Fundamentos Java Web (Old)2013](https://www.youtube.com/watch?v=oWqryJpvFeg&list=PLKvsMn7xWutZ4P8U5KvF0kxpaCCbcW02A)
+
+[Fundamentos Java Web 2015](https://www.youtube.com/watch?v=A9WRuhzVD80&list=PLKvsMn7xWutZ_kx6CRoVNxV2Bwt4xHQ6o)
 
 
 
