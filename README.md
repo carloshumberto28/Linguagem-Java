@@ -24,6 +24,9 @@ Tutoriais e informações sobre Java
 
 [Fundamentos Java Web 2015](https://www.youtube.com/watch?v=A9WRuhzVD80&list=PLKvsMn7xWutZ_kx6CRoVNxV2Bwt4xHQ6o)
 
+[Cursou:Java Web](https://www.cursou.com.br/informatica/programacao/programacao-java-web/#player)
+
+
 
 
 
