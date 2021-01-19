@@ -32,6 +32,10 @@ Tutoriais e informações sobre Java
 
 [Devmedia](https://www.devmedia.com.br/criando-e-publicando-aplicacoes-web-com-eclipse/28024)
 
+# Maven
+[Configurando o Maven. Variaveis de ambiente](https://www.youtube.com/watch?v=-ucX5w8Zm8s)
+
+
 
 
 
