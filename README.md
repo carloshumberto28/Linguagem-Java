@@ -40,6 +40,9 @@ Tutoriais e informações sobre Java
 
 
 # OFBIZ
+[Tutorial em espanhol](https://www.youtube.com/watch?v=7aiNzvn6TvQ)
+
+
 [Tutorial Ofbiz](https://cwiki.apache.org/confluence/display/OFBIZ/OFBiz+Tutorial+-+A+Beginners+Development+Guide+for+16.11#OFBizTutorialABeginnersDevelopmentGuidefor16.11-CreateYourFirstApplication(HelloWorld...))
 
 ## ofbiz-plugins
