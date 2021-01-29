@@ -38,6 +38,13 @@ Tutoriais e informações sobre Java
 # Maven
 [Configurando o Maven. Variaveis de ambiente](https://www.youtube.com/watch?v=-ucX5w8Zm8s)
 
+# Gladle
+TUTORIAL GLADLE
+
+Para o Wrapper funcionar com o gladle, tem que instalar o Buildship.
+Configurar o eclipse para o Gladle instalando o BuildShip atraves do MarketPlace do Eclipse que está no menu help do mesmo.
+https://marketplace.eclipse.org/content/buildship-gradle-integration
+[]()
 
 # OFBIZ
 [Tutorial em espanhol](https://www.youtube.com/watch?v=7aiNzvn6TvQ)
